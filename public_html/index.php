@@ -20,11 +20,36 @@
 				<img src="img/download.jpeg" alt="meow go meow meow"
 			</section>
 			<section>
-				<h2></h2>
-				<ul></ul>
+				<h2>my thingys</h2>
+				<ul>
+					<li>nathan</li>
+					<li>sanchez</li>
+					<li>was</li>
+					<li>here</li>
+				</ul>
 			</section>
 			<section>
-<!-- test2-->
+				<table>
+
+					<tr>
+						<th>colom1</th>
+						<th>colom 2</th>
+					</tr>
+
+					<tr>
+						<td>cat</td>
+						<td>dogger</td>
+
+					</tr>
+					<tr>
+						<td>bike</td>
+						<td>car</td>
+					</tr>
+					<tr>
+						<td>starwars</td>
+						<td>startrek</td>
+					</tr>
+				</table>
 			</section>
 		</main>
 	</body>
