@@ -2,7 +2,11 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
+		<!-- add css file-->
+		<link href="css/style%20sheet.css" rel="stylesheet" type="" />
+
 		<title>html sandboox</title>
+
 	</head>
 	<body>
 
