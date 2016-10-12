@@ -21,7 +21,7 @@
 			<section>
 				<p>blah blah blah blah blah blah vlakom ONDFNNWNNFN;AND;NNfnsndlkweoindfnlsknenps
 					nfpnenwblah blah blah blah blah blah vlakom ONDFNNWNNFN;AND;NNfnsndlkweoindfnlsknenpsnfpnenw</p>
-				<img src="img/download.jpeg" alt="meow go meow meow"
+				<img src="img/download.jpeg" alt="meow go meow meow"/>
 			</section>
 			<section>
 				<h2>my thingys</h2>
